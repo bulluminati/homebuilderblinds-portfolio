@@ -39,17 +39,11 @@ Full-stack e-commerce platform built for a real business. Handles customer-facin
 
 ## Screenshots
 
-### Homepage
-![Homepage](./screenshots/homepage.png)
-*Customer-facing homepage with product categories and scheduling*
+![Screenshot 1](./screenshots/Screenshot%20from%202025-12-01%2013-30-25.png)
 
-### Measurement Scheduling
-![Measurement Scheduling](./screenshots/measurement-scheduling.png)
-*Calendar-based scheduling system for measurement appointments*
+![Screenshot 2](./screenshots/Screenshot%20from%202025-12-01%2013-26-02.png)
 
-### Supabase Dashboard
-![Supabase Dashboard](./screenshots/supabase-dashboard.png)
-*Database and API monitoring dashboard*
+![Screenshot 3](./screenshots/Screenshot%20from%202025-12-01%2013-16-41.png)
 
 ## Technology Stack
 
