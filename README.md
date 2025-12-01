@@ -39,11 +39,11 @@ Full-stack e-commerce platform built for a real business. Handles customer-facin
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/Screenshot%20from%202025-12-01%2013-16-41.png)
+![Homepage](./screenshots/homepage.png)
 
-![Screenshot 2](./screenshots/Screenshot%20from%202025-12-01%2013-26-02.png)
+![Supabase Dashboard](./screenshots/supabase-dashboard.png)
 
-![Screenshot 3](./screenshots/Screenshot%20from%202025-12-01%2013-30-25.png)
+![GitHub Profile](./screenshots/github-profile.png)
 
 ## Technology Stack
 
