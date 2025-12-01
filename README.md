@@ -37,14 +37,6 @@ Full-stack e-commerce platform built for a real business. Handles customer-facin
 - Measurement scheduling calendar
 - Warehouse management tools
 
-## Screenshots
-
-![Homepage](./screenshots/homepage.png)
-
-![Supabase Dashboard](./screenshots/supabase-dashboard.png)
-
-![GitHub Profile](./screenshots/github-profile.png)
-
 ## Technology Stack
 
 **Frontend:**
