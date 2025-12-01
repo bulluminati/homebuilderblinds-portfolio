@@ -39,28 +39,6 @@ HomeBuilderBlinds is a comprehensive full-stack e-commerce platform I built and 
 - **Measurement Scheduling**: Calendar-based appointment system
 - **Warehouse Management**: Pick sheets, will call, delivery routing
 
-## 🖼️ Screenshots
-
-### Homepage
-![Homepage](./screenshots/homepage.png)
-*Customer-facing homepage with product categories and scheduling*
-
-### Operations Dashboard
-![Operations Dashboard](./screenshots/operations-dashboard.png)
-*Internal operations dashboard for warehouse and production management*
-
-### Measurement Scheduling
-![Measurement Scheduling](./screenshots/measurement-scheduling.png)
-*Calendar-based scheduling system for measurement appointments*
-
-### Accounting Dashboard
-![Accounting Dashboard](./screenshots/accounting-dashboard.png)
-*Financial dashboard with AR aging, revenue tracking, and reporting*
-
-### GitHub Activity
-![GitHub Activity](./screenshots/github-activity.png)
-*Development activity and contribution history*
-
 ## 🛠️ Technology Stack
 
 ### Frontend
