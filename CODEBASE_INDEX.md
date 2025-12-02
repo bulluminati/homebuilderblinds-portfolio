@@ -72,37 +72,39 @@
 ## 📁 Project Structure
 
 ```
-homebuilderblinds-11-2/
-├── src/                          # Frontend source code
-│   ├── components/               # React components (379 files)
-│   ├── pages/                   # Application pages (73 files)
-│   ├── hooks/                   # Custom React hooks
-│   ├── contexts/                # React context providers
-│   ├── lib/                     # Core business logic and utilities
-│   ├── integrations/           # External service integrations
-│   ├── config/                  # Configuration files
-│   ├── types/                   # TypeScript type definitions
-│   └── utils/                   # Utility functions
-├── supabase/                    # Supabase configuration
-│   ├── functions/              # Edge Functions (37 functions)
-│   ├── migrations/             # Database migrations (177+ migrations)
-│   └── config.toml             # Supabase configuration
-├── scripts/                     # Utility scripts (56 files)
-│   ├── ebay/                   # eBay feed generation
-│   ├── catalog/                # Catalog management
-│   └── utilities/              # Helper scripts
-├── docs/                        # Documentation (100+ files)
-│   ├── database/               # Database documentation
-│   ├── integrations/           # Integration guides
-│   ├── indexes/                # Previous codebase indexes
-│   └── status/                 # Status reports
-├── public/                      # Static assets (109 files)
-├── tests/                       # Test files (40 files)
-├── load-testing/               # Load testing scripts (36 files)
-├── accounting-edge-functions/   # Accounting system functions
-├── google-seo/                 # SEO tools and scripts
-├── examples/                   # Example files and test data
-└── catalogs/                   # Product catalogs
+├── integrations/                    # ALL external integrations
+│   ├── google-merchant-center/     # Google upload system
+│   │   ├── uploaders/              # API upload scripts
+│   │   ├── feed-generators/        # XML/CSV feed scripts
+│   │   ├── config/                 # Configuration
+│   │   └── feeds/                  # Generated feeds
+│   ├── ebay/                       # eBay integration
+│   │   ├── feed-generation/        # Feed scripts
+│   │   └── feeds/                  # Generated feeds
+│   ├── realpage/                   # RealPage punch-out
+│   └── stripe/                     # Payment processing
+│
+├── automation/                      # Automated processes
+│   ├── product-uploads/            # Google, eBay uploads
+│   ├── catalog-generation/         # Catalog scripts
+│   ├── price-calculation/          # Pricing automation
+│   └── data-sync/                  # Data synchronization
+│
+├── operations/                      # Business operations
+│   ├── accounting/                 # Accounting functions
+│   ├── order-processing/           # Order management
+│   └── inventory/                 # Inventory scripts
+│
+├── infrastructure/                  # System infrastructure
+│   ├── database/                   # SQL scripts, migrations
+│   ├── api/                        # API handlers
+│   ├── edge-functions/            # Supabase functions
+│   └── load-testing/              # Performance testing
+│
+├── utilities/                       # Helper scripts
+│   ├── data-migration/            # Migration scripts
+│   ├── admin-tools/               # Admin utilities
+│   └── development/               # Dev tools
 ```
 
 ---
