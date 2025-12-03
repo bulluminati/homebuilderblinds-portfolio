@@ -9,7 +9,6 @@
 
 ## Overview
 <img width="1852" height="962" alt="Screenshot from 2025-12-01 13-15-25" src="https://github.com/user-attachments/assets/81bb68f5-d33c-43ef-be46-329b99182905" />
-<img width="1852" height="962" alt="Screenshot from 2025-12-01 13-30-25" src="https://github.com/user-attachments/assets/e0612f87-2f0b-4f84-87da-6aa54bcb6102" />
 <img width="1852" height="962" alt="Screenshot from 2025-12-01 13-15-04" src="https://github.com/user-attachments/assets/eb7f079c-027d-4b77-9fd4-66edb0792be7" />
 
 Full-stack e-commerce platform built for a real business. Handles customer-facing storefronts, internal warehouse operations, B2B procurement integrations, and property management workflows.
